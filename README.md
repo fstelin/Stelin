@@ -65,6 +65,11 @@ $  source bin/activate
 $  git clone https://github.com/fstelin/Stelin.git
 ```
 
+**4. Install Requirements from 'requirements.txt'**
+```python
+$  pip3 install -r requirements.txt
+```
+
 **5. Add the hosts**
 
 - Got to settings.py file 
