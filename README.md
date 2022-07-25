@@ -152,7 +152,18 @@ This page allows admin to view the requisition of blood by different customers.
 Admin will allow/reject the blood request 
 Admin can modify the details of customers after the allocation or rejection of blood for the customers.
 
+# Blood Bank Management System
+Uche chinedu
+Student id : 10594644
+We have done the assignment is a Life saver-an online blood bank and my contribution is that ,i did the css and javascript  in our project.
+CSS:
+CSS enables these changes across all the style sheets, much like the cascading or ripple effect of a waterfall. It allows you to develop the overall look of your website. While HTML focuses on the content and structure of a website, CSS is concerned with elements of presentation such as layout, font and colour. Before CSS came to be used, all these elements had to be included within the HTML itself, which made the documents more complex. This division of functions between HTML and CSS allows web designers greater control over the web pages.
+CSS file is created to match the current standards of what a usual website provide. This includes styling, color codes, layout, etc. The Current CSS file is provided in view along with HTML and rendered by Django.
 
+Javascript:
+Iam  using javascript for ransform webpage from static to dynamic.
+In Our project we have used jQuery to stimulate button action and animations.
+The version we have used is 3.6.0.
 
 
 
